@@ -1,0 +1,6 @@
+{
+    "bound_service_account_names": ["app"],
+    "bound_service_account_namespaces": ["test"],
+    "policies": ["app-secret"],
+    "ttl": "24h"
+}
